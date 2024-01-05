@@ -12,7 +12,7 @@
 
 <div align="center">
   <a hreff="htpps://github.com/mttorres68">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mttorres68&show_icons=true&theme=radical&include_all_commits=true&cout_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mttorres68&cout_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttorres68&layout=compact&langs_count=6&theme=radical" />
 </div>
 
