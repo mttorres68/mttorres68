@@ -1,17 +1,22 @@
+  <h1 align="center"> Hi, I'm Mateus Torres 👋 </h1> <br/>
 
 <div align="center">
-<h1>Hi, I'm Mateus Torres 👋 </h1><br>
-- 🔭 I'm currently working with mobile
-- 🌱 I'm currently learning Flutter
-- ⚡ Fun fact: I'm not afraid
+
+ 🔭 I’m currently working on **mobile**
+
+ 
+ 🌱 I’m currently learning **Flutter, UX/UI**
+
+⚡ Fun fact **I'm not afraid**
 </div>
+
 <div align="center">
   <a hreff="htpps://github.com/mttorres68">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mttorres68&show_icons=true&theme=radical&include_all_commits=true&cout_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttorres68&layout=compact&langs_count=6&theme=radical" />
 </div>
 
-<div align="center" style="display: inline_blokc"><br>
+<div align="center" style="display: inline_blokc"><br/>
   <img align="center" alt="Torres-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Torres-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Torres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,3 +41,9 @@
 </div>
 
 <hr/>
+
+🔭 I’m currently working on **mobile**
+ 
+🌱 I’m currently learning **Flutter, UX/UI**
+
+⚡ Fun fact **I'm not afraid**
