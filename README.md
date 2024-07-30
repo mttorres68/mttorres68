@@ -5,7 +5,7 @@
  🔭 I’m currently working on **mobile**
 
  
- 🌱 I’m currently learning **Flutter, UX/UI**
+ 🌱 I’m currently learning **React, UX/UI**
 
 ⚡ Fun fact **I'm not afraid**
 </div>
@@ -23,8 +23,6 @@
   <img align="center" alt="Torres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Torres-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Torres-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Torres-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Torres-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
   <br>
 <div align="center"> 
