@@ -2,7 +2,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **mobile**
+ 🔭 I’m currently working on **Full Stack**
 
  
  🌱 I’m currently learning **React, UX/UI**
@@ -21,8 +21,10 @@
   <img align="center" alt="Torres-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Torres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Torres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Torres-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Torres-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Torres-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Torres-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Torres-django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">  
 </div>
   <br>
 <div align="center"> 
@@ -38,10 +40,3 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
-🔭 I’m currently working on **mobile**
- 
-🌱 I’m currently learning **Flutter, UX/UI**
-
-⚡ Fun fact **I'm not afraid**
